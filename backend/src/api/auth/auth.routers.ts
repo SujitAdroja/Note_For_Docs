@@ -6,7 +6,7 @@ import jwt from "jsonwebtoken";
 const router = Router();
 
 const dummyUser = {
-	email: "sharmil@gmail.com",
+	email: "test@gmail.com",
 	password: "123456",
 	id: "user-123",
 };
