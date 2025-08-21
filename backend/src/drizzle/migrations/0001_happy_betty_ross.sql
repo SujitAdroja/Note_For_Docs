@@ -1,0 +1,1 @@
+ALTER TABLE "notes" ADD COLUMN "patient_name" varchar(100);
