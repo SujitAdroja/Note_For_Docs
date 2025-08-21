@@ -109,7 +109,7 @@ const Login = () => {
 			<div className="absolute top-0 left-0 bg-orange-100 border-2 border-black text-black py-2 px-4 rounded-lg">
 				<div className="text-lg font-bold">Demo Login</div>
 				<div className="text-sm">
-					Email: <b>sharmil@gmail.com</b>
+					Email: <b>test@gmail.com</b>
 				</div>
 				<div className="text-sm">
 					Password: <b>123456</b>
