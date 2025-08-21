@@ -47,7 +47,7 @@ const Header = () => {
 					<div className="flex gap-2 items-center">
 						<div className="flex gap-1">
 							<CircleUser />
-							<div className="font-semibold">Hi, Sharmil!</div>
+							<div className="font-semibold">Hi, Sam!</div>
 						</div>
 						<Button onClick={onLogOut} variant="primary">
 							<LogOut width={18} height={18} />
